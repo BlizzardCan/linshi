@@ -1,2 +1,0 @@
-main.py为草稿
-文件下的main.ipynb为正式版
